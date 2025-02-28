@@ -139,7 +139,7 @@ img {
 
 /* risoluzione cellulare */
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 480px){ 
     .container{
         width: 100%;
     }
